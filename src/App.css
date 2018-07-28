@@ -1,0 +1,30 @@
+.App-title {
+    padding: 20px;
+    color: #272F32;
+    text-align: center;
+}
+
+.Editor-title, .Preview-title {
+    color: white;
+    text-align: center;
+}
+.col-md-6 {
+    padding: 10px;
+    background-color: #272F32;
+}
+
+textarea {
+    width: 100%;
+    height: 700px;
+}
+
+#preview {
+    background-color: white;
+    display: inline-block;
+}
+
+.copyright {
+    color: #272F32;
+    text-align: center;
+	padding: 15px;
+}
